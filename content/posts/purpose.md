@@ -1,4 +1,7 @@
-# Purpose Statements
+---
+title: "Purpose Statements"
+date: "2020-03-01"
+---
 
 ## 42
 
