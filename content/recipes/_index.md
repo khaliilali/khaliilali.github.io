@@ -1,5 +1,0 @@
----
-title: "./recipes/"
----
-
-## Recipes Home
